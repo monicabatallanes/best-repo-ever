@@ -1,2 +1,2 @@
 # best-repo-ever
-Repo de trailhead
+Repositorio para practicar en trailhead.
